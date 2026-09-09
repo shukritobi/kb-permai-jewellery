@@ -1,0 +1,7 @@
+<svg width="560" height="180" viewBox="0 0 560 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="560" height="180" rx="12" fill="#F5F3EE"/>
+  <path d="M60 118C95 80 120 63 156 66C179 68 201 78 222 96C244 115 266 122 292 116C319 110 340 91 359 72C376 56 395 49 420 53C446 57 464 72 481 95" stroke="#93A294" stroke-width="2" stroke-linecap="round"/>
+  <text x="280" y="84" text-anchor="middle" fill="#7F9082" font-family="Georgia, 'Times New Roman', serif" font-size="44" letter-spacing="3">KB PERMAI</text>
+  <text x="280" y="114" text-anchor="middle" fill="#7F9082" font-family="Arial, sans-serif" font-size="12" letter-spacing="5">SILVERCRAFT &amp; JEWELLERY</text>
+  <path d="M180 132H380" stroke="#B8C1B9" stroke-width="1"/>
+</svg>
